@@ -1,0 +1,1 @@
+Calculates position of the sun relative to a stationary terrestrial observer from any place on earth at any time of year.
